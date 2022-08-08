@@ -8,7 +8,7 @@
 
 ![image](https://github.com/leehyukshuai/Curve-Maker/blob/main/example/curve2.bmp)
 
-# Usage
+# Usage Example
 
 curve -i myScript -t 2.3 -r 100 -o myCurve.bmp
 
